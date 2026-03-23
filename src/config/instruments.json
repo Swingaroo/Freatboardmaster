@@ -1,0 +1,74 @@
+{
+  "instruments": [
+    {
+      "name": "Guitar",
+      "tunings": [
+        {
+          "name": "Standard",
+          "strings": [
+            { "note": "E", "octave": 4, "startFret": 0 },
+            { "note": "B", "octave": 3, "startFret": 0 },
+            { "note": "G", "octave": 3, "startFret": 0 },
+            { "note": "D", "octave": 3, "startFret": 0 },
+            { "note": "A", "octave": 2, "startFret": 0 },
+            { "note": "E", "octave": 2, "startFret": 0 }
+          ]
+        },
+        {
+          "name": "Drop D",
+          "strings": [
+            { "note": "E", "octave": 4, "startFret": 0 },
+            { "note": "B", "octave": 3, "startFret": 0 },
+            { "note": "G", "octave": 3, "startFret": 0 },
+            { "note": "D", "octave": 3, "startFret": 0 },
+            { "note": "A", "octave": 2, "startFret": 0 },
+            { "note": "D", "octave": 2, "startFret": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Banjo",
+      "tunings": [
+        {
+          "name": "Standard G",
+          "strings": [
+            { "note": "D", "octave": 4, "startFret": 0 },
+            { "note": "B", "octave": 3, "startFret": 0 },
+            { "note": "G", "octave": 3, "startFret": 0 },
+            { "note": "C", "octave": 3, "startFret": 0 },
+            { "note": "G", "octave": 4, "startFret": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bass",
+      "tunings": [
+        {
+          "name": "Standard",
+          "strings": [
+            { "note": "G", "octave": 2, "startFret": 0 },
+            { "note": "D", "octave": 2, "startFret": 0 },
+            { "note": "A", "octave": 1, "startFret": 0 },
+            { "note": "E", "octave": 1, "startFret": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ukulele",
+      "tunings": [
+        {
+          "name": "Standard (GCEA)",
+          "strings": [
+            { "note": "A", "octave": 4, "startFret": 0 },
+            { "note": "E", "octave": 4, "startFret": 0 },
+            { "note": "C", "octave": 4, "startFret": 0 },
+            { "note": "G", "octave": 4, "startFret": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}
